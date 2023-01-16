@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d9a2a155b891dea9987c963b63b36131",
+    "content-hash": "d65f39df5441979420c678520ec32d9c",
     "packages": [
         {
             "name": "altorouter/altorouter",
@@ -445,16 +445,16 @@
         },
         {
             "name": "forme/framework",
-            "version": "v2.8.7",
+            "version": "v2.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/formewp/forme-framework.git",
-                "reference": "4cd24298df67e6e6d76af1387b6f2ca56ca85eb5"
+                "reference": "e7e9ad9e4c342d31c34bb96e390519900d50f730"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/formewp/forme-framework/zipball/4cd24298df67e6e6d76af1387b6f2ca56ca85eb5",
-                "reference": "4cd24298df67e6e6d76af1387b6f2ca56ca85eb5",
+                "url": "https://api.github.com/repos/formewp/forme-framework/zipball/e7e9ad9e4c342d31c34bb96e390519900d50f730",
+                "reference": "e7e9ad9e4c342d31c34bb96e390519900d50f730",
                 "shasum": ""
             },
             "require": {
@@ -527,9 +527,9 @@
             "description": "An MVC framework for WordPress.",
             "support": {
                 "issues": "https://github.com/formewp/forme-framework/issues",
-                "source": "https://github.com/formewp/forme-framework/tree/v2.8.7"
+                "source": "https://github.com/formewp/forme-framework/tree/v2.9.0"
             },
-            "time": "2022-12-30T13:36:59+00:00"
+            "time": "2023-01-16T09:40:03+00:00"
         },
         {
             "name": "graham-campbell/result-type",
