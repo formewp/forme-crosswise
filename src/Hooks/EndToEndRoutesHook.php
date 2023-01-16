@@ -4,9 +4,9 @@ declare(strict_types=1);
 
 namespace Forme\Crosswise\Hooks;
 
+use Forme\Crosswise\Routes\EndToEndRoutes;
 use Forme\Framework\Hooks\HookInterface;
 use Forme\Framework\Hooks\HookIsSet;
-use Forme\Framework\Support\EndToEndRoutes;
 use function Forme\getInstance;
 
 final class EndToEndRoutesHook implements HookInterface
