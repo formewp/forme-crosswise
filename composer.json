@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "forme/framework": "^2.9"
+        "forme/framework": "^3.0"
     },
     "config": {
         "bin-dir": "tools",
